@@ -1,0 +1,5 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaMatriz\TareaMatriz\bin\Debug\TareaMatriz.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaMatriz\TareaMatriz\bin\Debug\TareaMatriz.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaMatriz\TareaMatriz\obj\x86\Debug\TareaMatriz.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaMatriz\TareaMatriz\obj\x86\Debug\TareaMatriz.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaMatriz\TareaMatriz\obj\x86\Debug\TareaMatriz.csprojResolveAssemblyReference.cache
