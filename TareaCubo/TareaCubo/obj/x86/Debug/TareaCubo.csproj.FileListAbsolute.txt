@@ -1,0 +1,5 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaCubo\TareaCubo\bin\Debug\TareaCubo.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaCubo\TareaCubo\bin\Debug\TareaCubo.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaCubo\TareaCubo\obj\x86\Debug\TareaCubo.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaCubo\TareaCubo\obj\x86\Debug\TareaCubo.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaCubo\TareaCubo\obj\x86\Debug\TareaCubo.csprojResolveAssemblyReference.cache

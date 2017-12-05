@@ -1,0 +1,5 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaFormula\TareaFormula\bin\Debug\TareaFormula.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaFormula\TareaFormula\bin\Debug\TareaFormula.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaFormula\TareaFormula\obj\x86\Debug\TareaFormula.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaFormula\TareaFormula\obj\x86\Debug\TareaFormula.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaFormula\TareaFormula\obj\x86\Debug\TareaFormula.csprojResolveAssemblyReference.cache

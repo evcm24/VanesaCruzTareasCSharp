@@ -1,0 +1,4 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\EvaluarGrupo\EvaluarGrupo\bin\Debug\EvaluarGrupo.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\EvaluarGrupo\EvaluarGrupo\bin\Debug\EvaluarGrupo.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\EvaluarGrupo\EvaluarGrupo\obj\x86\Debug\EvaluarGrupo.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\EvaluarGrupo\EvaluarGrupo\obj\x86\Debug\EvaluarGrupo.pdb

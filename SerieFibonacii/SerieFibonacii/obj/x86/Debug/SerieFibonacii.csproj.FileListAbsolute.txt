@@ -1,0 +1,4 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\SerieFibonacii\SerieFibonacii\bin\Debug\SerieFibonacii.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\SerieFibonacii\SerieFibonacii\bin\Debug\SerieFibonacii.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\SerieFibonacii\SerieFibonacii\obj\x86\Debug\SerieFibonacii.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\SerieFibonacii\SerieFibonacii\obj\x86\Debug\SerieFibonacii.pdb

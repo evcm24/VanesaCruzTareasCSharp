@@ -1,0 +1,4 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.pdb

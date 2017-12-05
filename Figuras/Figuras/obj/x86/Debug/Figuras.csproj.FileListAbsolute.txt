@@ -1,0 +1,4 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Figuras\Figuras\obj\x86\Debug\Figuras.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\Figuras\Figuras\obj\x86\Debug\Figuras.pdb
