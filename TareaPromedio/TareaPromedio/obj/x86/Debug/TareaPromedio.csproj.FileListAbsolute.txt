@@ -1,0 +1,4 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaPromedio\TareaPromedio\bin\Debug\TareaPromedio.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaPromedio\TareaPromedio\bin\Debug\TareaPromedio.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaPromedio\TareaPromedio\obj\x86\Debug\TareaPromedio.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaPromedio\TareaPromedio\obj\x86\Debug\TareaPromedio.pdb

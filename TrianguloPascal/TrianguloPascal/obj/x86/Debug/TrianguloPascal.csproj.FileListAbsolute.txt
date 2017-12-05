@@ -1,0 +1,4 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TrianguloPascal\TrianguloPascal\obj\x86\Debug\TrianguloPascal.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TrianguloPascal\TrianguloPascal\obj\x86\Debug\TrianguloPascal.pdb

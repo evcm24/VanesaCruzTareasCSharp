@@ -1,0 +1,5 @@
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaTeorema\TareaTeorema\bin\Debug\TareaTeorema.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaTeorema\TareaTeorema\bin\Debug\TareaTeorema.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaTeorema\TareaTeorema\obj\x86\Debug\TareaTeorema.exe
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaTeorema\TareaTeorema\obj\x86\Debug\TareaTeorema.pdb
+C:\Users\encru_000\Desktop\FANY 2016\PROGRAMAS\TareaTeorema\TareaTeorema\obj\x86\Debug\TareaTeorema.csprojResolveAssemblyReference.cache
